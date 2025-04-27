@@ -1,0 +1,34 @@
+{
+  "seller": [
+    {
+      "id": "9d3e",
+      "name": "khalid jafri",
+      "email": "test@seller.com",
+      "password": "test@123"
+    },
+    {
+      "id": "cef6",
+      "name": "khalid jafri",
+      "email": "test@seller.com",
+      "password": "test@123"
+    },
+    {
+      "id": "52e0",
+      "name": "asaa",
+      "password": "aaaaa",
+      "email": "khalidhaiderjafri@gmail.com"
+    },
+    {
+      "id": "df4f",
+      "name": "asas",
+      "password": "assssss",
+      "email": "amanrai8298@gmail.com"
+    },
+    {
+      "id": "65d9",
+      "name": "zayyeem",
+      "password": "aaaa",
+      "email": "khalidhaiderjafri@gmail.com"
+    }
+  ]
+}
